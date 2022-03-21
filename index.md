@@ -15,7 +15,7 @@ permalink: /
 
 <br/>
 
-Welcome to the 3rd International Workshop on Privacy, Security, and Trust in Computational Intelligence (PSTCI2021). It is a satellite workshop co-located with the 30th ACM International Conference on Information and Knowledge Management ([CIKM2021](https://www.cikm2021.org/)), which will be an online virtual event taking place during November 1st - 5th, 2021.
+Welcome to the DSAA2022 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2022). It is a satellite workshop co-located with the 30th ACM International Conference on Information and Knowledge Management ([CIKM2021](https://www.cikm2021.org/)), which will be an online virtual event taking place during November 1st - 5th, 2021.
 
 <br/>
 
