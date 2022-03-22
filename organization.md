@@ -5,25 +5,26 @@ permalink: /organization/
 ---
 
 ### **General Chair**
-- Guanfeng Liu, Macquarie University, Australia
+- Shui Yu, University of Technology Sydney, Australia
 - Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
-- Hongzhi Yin, The University of Queensland, Australia
+- Guanfeng Liu, Macquarie University, Australia
 ### **Program Chair**
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia
-- Deepak Puthal, Newcastle University, UK
-- Chi Yang, Huazhong University of Science and Technology, China
+- TBA
+- Yifeng Zheng, Harbin Institute of Technology, China
 ### **Publicity Chair**
 - Hongxu Chen, University of Technology Sydney, Australia
+- Hongsheng Hu, University of Auckland, New Zealand
 ### **Sponsorship Chair**
 - Lianyong Qi, Qufu Normal University, China
 ### **Web Chair**
 - Haolong Xiang, Macquarie University, Australia
 ### **Technical Program Committee**
+To be updated ...
 - Lingjuan Lyu,National University of Singapore,Singapore
 - Luigi Catuogno, University of Salerno, Italy 
 - Xiaochun Cheng, Middlesex University, U.K. 
 - Dieter Gollmann, Hamburg University of Technology, Germany 
-- Yifeng Zheng, Harbin Institute of Technology, China
 - Saeid Hosseini, Singapore University of Technology & Design, Singapore 
 - Hadis Karimipour, University of Guelph, Canada 
 - Weizhi Meng, Technical University of Denmark, Denmark 
