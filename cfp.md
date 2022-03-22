@@ -12,6 +12,8 @@ permalink: /cfp/
 
 <div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. </div>
 
+<br/>
+
 # **Topics of Interest**
 
 <div style="text-align: justify"> This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
