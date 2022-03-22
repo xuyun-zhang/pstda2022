@@ -8,9 +8,9 @@ layout: home
 permalink: /
 
 ---
-<!-- ![banner image](shenzhen.png) -->
+<!-- ![banner image](shenzhen.jpeg) -->
 <p align="center">
-	<img src="figures/shenzhen.png" width="750">
+	<img src="figures/shenzhen.jpeg" width="750">
 </p>
 
 <br/>
