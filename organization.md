@@ -9,18 +9,20 @@ permalink: /organization/
 - Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
 - Guanfeng Liu, Macquarie University, Australia
 ### **Program Chair**
-- [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia
-- TBA
+- Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
+- [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia
 ### **Publicity Chair**
 - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand
 ### **Sponsorship Chair**
+- Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China
 ### **Web Chair**
 - Haolong Xiang, Macquarie University, Australia
 ### **Technical Program Committee**
 To be updated ...
+Following are tentative PC members
 - Lingjuan Lyu,National University of Singapore,Singapore
 - Luigi Catuogno, University of Salerno, Italy 
 - Xiaochun Cheng, Middlesex University, U.K. 

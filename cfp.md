@@ -53,7 +53,7 @@ permalink: /cfp/
 **Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022)
 
 
-<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA2022 Important Policies](http://dsaa2022.dsaa.co/research-application-track-and-journal-track-papers/) for more details.In particular:
+<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA2022 Important Policies](http://dsaa2022.dsaa.co/research-application-track-and-journal-track-papers/) for more details. In particular:
 
 - All papers submitted to special sessions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
 
