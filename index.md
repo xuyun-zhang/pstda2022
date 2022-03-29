@@ -15,7 +15,7 @@ permalink: /
 
 <br/>
 
-Welcome to the DSAA2022 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2022). It is a special session of the 9th IEEE International Conference on Data Science and Advanced Analytics ([DSAA2022](http://dsaa2022.dsaa.co)), which will be hybird (onsite and online) event taking place at Shenzhen, China, during October 13th - 16th, 2022.
+Welcome to the DSAA2022 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2022). It is a special session of the 9th IEEE International Conference on Data Science and Advanced Analytics ([DSAA2022](http://dsaa2022.dsaa.co)), which will be hybrid (onsite and online) event taking place at Shenzhen, China, during October 13th - 16th, 2022.
 
 <br/>
 
