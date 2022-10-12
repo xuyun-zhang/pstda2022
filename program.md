@@ -11,7 +11,7 @@ order: 1
 
 **Pay careful  attention to the time zone difference!**
 
-### **Workshop Schedule**
+### **Special Session Schedule**
 **Date: Saturday 15 October 2022 (UTC+11, AEDT, Australia)**
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
