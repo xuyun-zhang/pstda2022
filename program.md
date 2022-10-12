@@ -6,7 +6,9 @@ order: 1
 ---
 ### **Conference Program**
 **DSAA2022 conference program can be found [here](https://csse.szu.edu.cn/dsaa2022/Pages/program-glance)**
+
 **PSTDA2022 Special Session is in Webinar 3  on Day 3 (15 October 2022). The Zoom link for attending the session is on the Program page.**
+
 **Pay careful  attention to the time zone difference!**
 
 ### **Workshop Schedule**
@@ -41,4 +43,4 @@ We have received 22 submissions across the world this year and 8 papers have bee
 - #369 "Fuzzy-Based Operational Resilience Modelling", Ur-Rehman, Attiq; Kamruzzaman, Joarder; Gondal, Iqbal; Jolfaei, Alireza
 - #385 "Domain Knowledge Enhanced Text Mining for Identifying Mental Disorder Patterns", Shahabikargar, Maryam; Beheshti, Amin; Khatami, Amin; Nguyen, Ricky; Zhang, Xuyun; Alinejad-Rokny, Hamid
 - #466 "A Systematical Evaluation for Next Basket Recommender Systems", Shao, Zhufeng; Wang, Shoujin; Zhang, Qian; Lu, Wenpeng; Li, Zhao; Peng, Xueping
-- "Evidence Based Pipeline for Explaining Artificial Intelligence Algorithms with Interactions", Hanif, Ambreen A; Beheshti, Amin; Benatallah, Boualem; Zhang, Xuyun; Wood, Steven
+- #482 "Evidence Based Pipeline for Explaining Artificial Intelligence Algorithms with Interactions", Hanif, Ambreen A; Beheshti, Amin; Benatallah, Boualem; Zhang, Xuyun; Wood, Steven
